@@ -1,0 +1,1 @@
+Variables for each task
