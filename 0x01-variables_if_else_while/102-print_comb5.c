@@ -2,7 +2,7 @@
 #include <unistd.h>
 /**
  * main - Entry point
- * Description: prints all combination of 2-digit numbers
+ * Description: prints all possible combination of 2-digits numbers
  * Return: Always 0 (success)
  */
 int main(void)
@@ -27,7 +27,7 @@ int main(void)
 
 					if (c + i + k + j == 227 && c == 57)
 					{
-					break
+					break;
 					}
 					else
 					{
@@ -43,3 +43,4 @@ int main(void)
 	return (0);
 }
 
+	
