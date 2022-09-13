@@ -3,7 +3,7 @@
  * times_table -prints tables
  *
  * Return: Always 0.
- */
+ */i
 void times_table(void)
 {
 	int a;
@@ -46,4 +46,3 @@ void times_table(void)
 		_putchar ('\n');
 	}
 }
-	
