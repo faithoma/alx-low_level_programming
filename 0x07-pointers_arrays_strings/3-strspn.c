@@ -26,6 +26,7 @@ unsigned int _strspn(char *s, char *accept)
 			if (str2[j] == str1[i]) /*Evaluate condition*/
 			{
 				count++; /*count number*/
+				break;
 			}
 
 			j++;    /*add j+1*/
