@@ -2,10 +2,7 @@
 
 /**
  * print_strings - prints strings
- * @separator - strings to be printed between the strings
  * @n: param
- *
- * Return - no return
  */
 void print_strings(const char *separator, const unsigned int n, ...)
 {
